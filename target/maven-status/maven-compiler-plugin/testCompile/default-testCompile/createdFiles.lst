@@ -1,0 +1,7 @@
+AutomationTesting\tasks\LoginPage.class
+AutomationTesting\abilities\GetInfoLogin.class
+AutomationTesting\tasks\Input.class
+AutomationTesting\ui\LoginPageUI.class
+AutomationTesting\features\search\package-info.class
+AutomationTesting\features\search\LoginToGuruDemo.class
+AutomationTesting\tasks\Launch.class
